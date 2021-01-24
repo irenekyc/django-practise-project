@@ -1,0 +1,1 @@
+Hello! Welcome to my practise project for Django Rest Framework and web scrapping
